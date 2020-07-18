@@ -710,33 +710,6 @@ iframe.lazy-placeholder,
 section.lazy-placeholder:after {
   opacity: 0.3;
 }
-.cid-s20GjF3YyU {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-image: url("../../../assets/images/epoch-weather-1920x1080.png");
-}
-.cid-s20GjF3YyU .title {
-  margin-bottom: 2rem;
-}
-.cid-s20GjF3YyU .mbr-section-subtitle {
-  color: #ffffff;
-}
-.cid-s20GjF3YyU a:not([href]):not([tabindex]) {
-  color: #fff;
-  border-radius: 3px;
-}
-.cid-s20GjF3YyU a.btn-white:not([href]):not([tabindex]) {
-  color: #333;
-}
-.cid-s20GjF3YyU textarea.form-control {
-  min-height: 188px;
-}
-.cid-s20GjF3YyU LABEL {
-  color: #ffffff;
-}
-.cid-s20GjF3YyU H2 {
-  color: #ffffff;
-}
 .cid-s28YaGROpB {
   padding-top: 90px;
   padding-bottom: 90px;
