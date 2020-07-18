@@ -710,36 +710,3 @@ iframe.lazy-placeholder,
 section.lazy-placeholder:after {
   opacity: 0.3;
 }
-.cid-s28YaGROpB {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #ffffff;
-}
-.cid-s28YaGROpB h4 {
-  font-weight: 500;
-  margin-bottom: 0;
-  text-align: left;
-  padding-top: 2rem;
-}
-.cid-s28YaGROpB p {
-  margin-bottom: 0;
-  text-align: left;
-  padding-top: 1.5rem;
-}
-.cid-s28YaGROpB .mbr-section-btn {
-  padding-top: 2.5rem;
-}
-.cid-s28YaGROpB .mbr-section-btn a {
-  margin: 0;
-}
-.cid-s28YaGROpB .mbr-text {
-  color: #767676;
-}
-.cid-s28YaGROpB .card-wrapper {
-  height: 100%;
-}
-@media (max-width: 767px) {
-  .cid-s28YaGROpB .card:not(.last-child) {
-    padding-bottom: 2rem;
-  }
-}
